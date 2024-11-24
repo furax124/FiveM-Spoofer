@@ -1,4 +1,4 @@
-# Purpose
+# Purpose 
 This program blocks the outbound and inbound connections from FiveM so they can't check your HWID via their authentication server. Essentially, it allows you to play FiveM on a HWID banned computer.
 
 # How to Use:
@@ -23,3 +23,7 @@ This program blocks the outbound and inbound connections from FiveM so they can'
 
 # Notes:
 - The bypass will block outgoing and incoming connections while FiveM is running. Once FiveM is closed, the bypass will automatically be removed.
+
+# DISCLAIMER:
+
+Never test it and idk if it work but try it and open a issue if it doesnt work or add on discord (axel0277)
