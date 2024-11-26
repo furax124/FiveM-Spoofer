@@ -27,3 +27,4 @@ This program blocks the outbound and inbound connections from FiveM so they can'
 # DISCLAIMER:
 
 I Never test it and idk if it work but try it and open a issue if it doesnt work or add on discord (axel0277)
+It should normally work since i saw a doc on fivem about it
