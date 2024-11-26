@@ -119,7 +119,7 @@ func cleanHWIDTraces() {
 		"HKCU\\Software\\CitizenFX",
 		"HKCU\\Software\\Rockstar Games",
 		"HKLM\\Software\\CitizenFX",
-		"HKEY_LOCAL_MACHINE\SOFTWARE\FiveM",
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\FiveM",
 	}
 
 	fmt.Println("Starting HWID cleaning process...")
